@@ -28,6 +28,7 @@ Acousticness
 Each song is labeled as either 'Hip-Hop' or 'Rock', serving as the ground truth for classification.
 
 **Key Tasks & Methodology**
+
 Exploratory Data Analysis (EDA): Visualizing and understanding data distributions using Pandas, Matplotlib, and Seaborn.
 
 Hypothesis Testing: Conducted the Shapiro-Wilk test to verify data adherence to statistical assumptions.
@@ -53,8 +54,8 @@ Run the Jupyter Notebook:
 
 jupyter notebook Notebook.ipynb
 
-**Usage
-**
+**Usage**
+
 The Jupyter Notebook contains step-by-step analysis and implementation.
 
 Modify hyperparameters and model configurations as needed.
