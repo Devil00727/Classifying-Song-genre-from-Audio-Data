@@ -27,8 +27,7 @@ Danceability
 Acousticness
 Each song is labeled as either 'Hip-Hop' or 'Rock', serving as the ground truth for classification.
 
-**Key Tasks & Methodology
-**
+**Key Tasks & Methodology**
 Exploratory Data Analysis (EDA): Visualizing and understanding data distributions using Pandas, Matplotlib, and Seaborn.
 
 Hypothesis Testing: Conducted the Shapiro-Wilk test to verify data adherence to statistical assumptions.
