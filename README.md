@@ -27,8 +27,7 @@ Each song is labeled as either 'Hip-Hop' or 'Rock', serving as the ground truth 
 ## Installation & Setup
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/song-genre-classification.git
-   cd song-genre-classification
+   git clone https://github.com/Devil00727/Classifying-Song-genre-from-Audio-Data.git
    ```
 2. Install dependencies:
    ```bash
